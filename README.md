@@ -1,4 +1,4 @@
--  **HELLO THERE!** Meu nome é @rafaelSacata e sou **Back-end Developer**
+-  **HELLO THERE!** Meu nome é @rafaelSacata e sou um desenvolvedor **back-end**
 
 -  Techs que você verá por aqui:<br>
   
@@ -17,13 +17,10 @@
    <img src= "https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
    <img src= "https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
    <img src= "https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important">
-   <img src= "https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
    <img src= "https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
    <img src= "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
    <img src= "https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"><br>
    
-
-<img src= "https://activity-graph.herokuapp.com/graph?username=rafaelSacata&theme=minimal">
 <!---
 rafaelSacata/rafaelSacata is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
