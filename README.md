@@ -1,4 +1,4 @@
--  **HELLO THERE!** Meu nome é @rafaelSacata e sou um desenvolvedor **back-end**
+-  back-end developer
 
 -  Techs que você verá por aqui:<br>
   
@@ -10,9 +10,6 @@
     <img src= "https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"><br>
     <img src= "https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white">
     <img src= "https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
-
-  
-- Meus melhores amigos no desenvolvimento de software:<br>
 
    <img src= "https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
    <img src= "https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
